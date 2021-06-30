@@ -1,0 +1,35 @@
+//REST API 
+
+RE -->REPRESENTATIONAL-->represent(to show or display,appear)
+S-->STATE
+T-->Transfer
+
+Means representing the data  by sharing  after processing
+
+For eg:
+
+When we send the request to get the 10 users data to server then the server will represent the data to 10 users.
+by processing it.
+and it shares(Trasnsfer) the data.
+
+
+
+Framwork is something that have everything to build an softreare application(everything thatwe need to build an app)
+
+Librayry is nothing but piece of package.(its have a freedom or autorirty to select the anyy lib we want)
+
+
+
+express http methods
+
+
+
+get-to reterive the data from
+
+post-to send data to server
+
+
+put-to update an exisiting data to
+
+
+delete-to delete an exisiting data
